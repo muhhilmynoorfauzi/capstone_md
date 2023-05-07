@@ -1,4 +1,4 @@
-# flutter_to_github_example
+# Flutter To Github Example
 
 A new Flutter project.
 
